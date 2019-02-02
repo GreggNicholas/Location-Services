@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocationServices</string>
+    <string name="textview2">Im the second textview</string>
+    <string name="textview1">Hello World!</string>
+    <string name="get_button">Get Button</string>
+    <string name="location_text">"Latitude: %1$.4f \n Longitude: %2$.4f
+        \n Timestamp: %3$tr"</string>
+</resources>
